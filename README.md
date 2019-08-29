@@ -1,29 +1,22 @@
-# myphotodemo
+##  myphotodemo
+### 初步完成的面试题目,感谢给予的机会
 
+题目要求
+```
+这是一个图片展示页面。每个图片包含三个信息，名称、分类和创建时间（模拟数据至少包含20个图片和5个分类）。
+
+1. 请设计数据结构来表达这些图片项目。
+
+2. 请设计并实现一个页面既可以按分类也可以按创建时间倒序显示图片，通过按钮切换展示状态。
+
+3. 在按分类显示图片时，支持拖动图片，更新图片的分类，但其时间不变。
+```
 ## Project setup
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+## run demo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
